@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 # install and run app
 
-npm install
+npm install__
 npm run dev
